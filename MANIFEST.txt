@@ -1,0 +1,10 @@
+MANIFEST.txt — SHA-256 checksums for the account snapshot files.
+
+Format: one line per file, `<sha256>  <path>`, compatible with `sha256sum -c MANIFEST.txt`
+from the repository root (paths are relative to the root).
+
+4da6f30b79c7f9800d4b339fd379441f6f6dbf9b3ee8ef9737eca948e99221af  README.md
+2efba635da4ca842133d64db5f60cd39265755e709e6de017fa3a1fd826d8b10  data/profile.md
+8e3c3439f9fbd8d70a615b3beb80f099beb1aef378eb6c58ac17854d895195ff  data/starred.md
+49e9f89038704c8e3387069af0052c5d3cd784584b8b51719bb4872d970142bd  data/teams.md
+2e079e76ad531222a2a69d0e56e730fa2dbc2673af058916a47e827a347e1a75  data/first-issues.md
